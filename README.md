@@ -15,7 +15,7 @@ check out the live operating system here: https://silkyos.netlify.app
 - music player (spotify playlist integration)
 - quick notes (journaling pad)
 
-***new features from weOS 2 mission***
+***new features from webOS 2 mission***
 - system settings app: sidebar navigation with tabs for customizable wallpapers (Gingham Green, Minimal Grey), system specs, and window translucency toggles.
 - silky CLI terminal: interactive CLI with supported system commands (`/help`, `/clear`, `/open [app]`, `/date`).
 - retro calculator: functional calculator widget integrated directly into the desktop workspace.
